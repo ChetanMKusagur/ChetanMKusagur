@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Dot Net Developer
+I am a Dot Net Windows Desktop Application Developer
 
 
 ## 🌐 Socials:
